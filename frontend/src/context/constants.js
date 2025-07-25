@@ -1,0 +1,9 @@
+export const currency = '$';
+export const currentYear = new Date().getFullYear();
+export const developedByLink = 'https://sparkglobal.lk/';
+export const developedBy = 'Spark Global Solutions';
+export const contactUs = '';
+export const buyLink = '';
+export const basePath = '';
+export const DEFAULT_PAGE_TITLE = '';
+export const colorVariants = ['primary', 'secondary', 'success', 'warning', 'info', 'danger', 'dark', 'light'];
